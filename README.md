@@ -6,5 +6,5 @@
 
 Free accounts are required to deploy this IAC (infrastructure as code)
 * AWS Free Tier Account
-* * Terraform Community Edition
+*  Terraform Community Edition
 
