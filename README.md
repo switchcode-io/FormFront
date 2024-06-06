@@ -1,4 +1,4 @@
-# Switch Code - Terraform Tutuorials
+# Switch Code - Terraform Tutorials
 
 ## 1. Terraform Demo Video 1 - Create an S3 bucket to host your own static website
 
