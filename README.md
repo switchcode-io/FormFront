@@ -5,6 +5,6 @@
 ![image](https://github.com/switchcode-io/Terraform_Tutorial/assets/5680013/1c411738-187f-428f-95a4-70eb099a0e77)
 
 Free accounts are required to deploy this IAC (infrastructure as code)
-* [AWS Free Tier Account](https://aws.amazon.com/free)
-* [Terraform Community Edition (Free)](https://developer.hashicorp.com/terraform/install)
+* Sign up for a free AWS Account: [AWS Free Tier Account](https://aws.amazon.com/free)
+* Download Terraform for free: [Terraform Community Edition (Free)](https://developer.hashicorp.com/terraform/install)
 
